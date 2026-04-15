@@ -1,3 +1,4 @@
+"""Настройки Django-проекта yatube_api."""
 from pathlib import Path
 
 from datetime import timedelta
