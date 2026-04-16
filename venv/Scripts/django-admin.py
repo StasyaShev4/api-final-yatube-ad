@@ -1,4 +1,4 @@
-#!D:\dev2\api-final-yatube-ad\venv\Scripts\python.exe
+#!D:\Dev\api-final-yatube-ad\venv\Scripts\python.exe
 # When the django-admin.py deprecation ends, remove this script.
 import warnings
 

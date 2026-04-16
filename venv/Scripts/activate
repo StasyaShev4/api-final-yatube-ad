@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="D:\dev2\api-final-yatube-ad\venv"
+VIRTUAL_ENV="D:\Dev\api-final-yatube-ad\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

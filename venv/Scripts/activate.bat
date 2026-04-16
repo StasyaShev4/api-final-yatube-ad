@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=D:\dev2\api-final-yatube-ad\venv
+set VIRTUAL_ENV=D:\Dev\api-final-yatube-ad\venv
 
 if not defined PROMPT set PROMPT=$P$G
 
